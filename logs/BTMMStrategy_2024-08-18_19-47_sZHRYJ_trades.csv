@@ -1,0 +1,23 @@
+time,strategy,identifier,symbol,side,type,status,multiplier,time_in_force,asset.strike,asset.multiplier,asset.asset_type,price,filled_quantity,trade_cost
+2024-01-02 09:30:00-05:00,BTMMStrategy,9a96cce985834e1cab39710fbc8d85ce,USDJPY=X,buy,market,new,1,gtc,0.0,1,stock,,,
+2024-01-02 09:30:00-05:00,BTMMStrategy,9a96cce985834e1cab39710fbc8d85ce,USDJPY=X,buy,market,fill,1,gtc,0.0,1,stock,142.15499877929688,703.0,0.0
+2024-04-30 09:30:00-04:00,BTMMStrategy,5b94d1ac4332441c923b3eabcfb6bd66,USDJPY=X,sell,stop,canceled,1,day,0.0,1,stock,,,
+2024-04-30 09:30:00-04:00,BTMMStrategy,5624932ce4264827bfe4944f951829b3,USDJPY=X,sell,limit,canceled,1,day,0.0,1,stock,,,
+2024-04-30 09:30:00-04:00,BTMMStrategy,15af3d3987074f8799e2fa197fd773eb,USDJPY=X,sell,market,new,1,day,0.0,1,stock,,,
+2024-04-30 09:30:00-04:00,BTMMStrategy,999130c1eb884dfdb98e047f3ed7f500,USDJPY=X,sell,market,new,1,gtc,0.0,1,stock,,,
+2024-04-30 09:30:00-04:00,BTMMStrategy,15af3d3987074f8799e2fa197fd773eb,USDJPY=X,sell,market,fill,1,day,0.0,1,stock,157.7220001220703,703.0,0.0
+2024-04-30 09:30:00-04:00,BTMMStrategy,999130c1eb884dfdb98e047f3ed7f500,USDJPY=X,sell,market,fill,1,gtc,0.0,1,stock,157.7220001220703,412.0,0.0
+2024-05-22 09:30:00-04:00,BTMMStrategy,2939af1ff5fd4d0e814dbccdba67e8af,USDJPY=X,sell,market,new,1,gtc,0.0,1,stock,,,
+2024-05-22 09:30:00-04:00,BTMMStrategy,2939af1ff5fd4d0e814dbccdba67e8af,USDJPY=X,sell,market,fill,1,gtc,0.0,1,stock,156.70399475097656,1122658.0,0.0
+2024-05-23 09:30:00-04:00,BTMMStrategy,62459eff3edf4c19ab5481c724af0e28,USDJPY=X,sell,market,new,1,gtc,0.0,1,stock,,,
+2024-05-23 09:30:00-04:00,BTMMStrategy,62459eff3edf4c19ab5481c724af0e28,USDJPY=X,sell,market,fill,1,gtc,0.0,1,stock,156.97300720214844,1121854780.0,0.0
+2024-05-24 09:30:00-04:00,BTMMStrategy,7ddd8a7124a14f0ebab6dbb193d96559,USDJPY=X,sell,market,new,1,gtc,0.0,1,stock,,,
+2024-05-24 09:30:00-04:00,BTMMStrategy,7ddd8a7124a14f0ebab6dbb193d96559,USDJPY=X,sell,market,fill,1,gtc,0.0,1,stock,156.97300720214844,1122976634780.0,0.0
+2024-05-28 09:30:00-04:00,BTMMStrategy,5acab053df5f4ff7bed60cd72658373f,USDJPY=X,sell,market,new,1,gtc,0.0,1,stock,,,
+2024-05-28 09:30:00-04:00,BTMMStrategy,5acab053df5f4ff7bed60cd72658373f,USDJPY=X,sell,market,fill,1,gtc,0.0,1,stock,157.26199340820312,1122033954768249.0,0.0
+2024-05-29 09:30:00-04:00,BTMMStrategy,3c52af9721bd4704b14266f9915b1729,USDJPY=X,sell,market,new,1,gtc,0.0,1,stock,,,
+2024-05-29 09:30:00-04:00,BTMMStrategy,3c52af9721bd4704b14266f9915b1729,USDJPY=X,sell,market,fill,1,gtc,0.0,1,stock,157.60800170898438,1.1206902427522771e+18,0.0
+2024-05-30 09:30:00-04:00,BTMMStrategy,d4e4e166c520447eb4726e1c7422572a,USDJPY=X,sell,market,new,1,gtc,0.0,1,stock,,,
+2024-05-30 09:30:00-04:00,BTMMStrategy,d4e4e166c520447eb4726e1c7422572a,USDJPY=X,sell,market,fill,1,gtc,0.0,1,stock,156.9530029296875,1.1264924923025808e+21,0.0
+2024-05-31 09:30:00-04:00,BTMMStrategy,f6dc5fb4887e4a339efe6f512fcc11ea,USDJPY=X,sell,market,new,1,gtc,0.0,1,stock,,,
+2024-05-31 09:30:00-04:00,BTMMStrategy,f6dc5fb4887e4a339efe6f512fcc11ea,USDJPY=X,sell,market,fill,1,gtc,0.0,1,stock,156.9530029296875,1.1276189847948833e+24,0.0

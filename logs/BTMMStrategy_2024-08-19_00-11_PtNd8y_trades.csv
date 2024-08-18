@@ -1,0 +1,23 @@
+time,strategy,identifier,symbol,side,type,status,multiplier,time_in_force,asset.strike,asset.multiplier,asset.asset_type,price,filled_quantity,trade_cost
+2024-01-02 09:30:00-05:00,BTMMStrategy,e83e8ed4d3a847d594515fc32f670adc,AAPL,buy,market,new,1,gtc,0.0,1,stock,,,
+2024-01-02 09:30:00-05:00,BTMMStrategy,e83e8ed4d3a847d594515fc32f670adc,AAPL,buy,market,fill,1,gtc,0.0,1,stock,187.14999389648438,267.0,0.0
+2024-01-30 09:30:00-05:00,BTMMStrategy,587736d6679a47f7881c4a81588e340f,AAPL,sell,stop,canceled,1,day,0.0,1,stock,,,
+2024-01-30 09:30:00-05:00,BTMMStrategy,874af637d58a41cd8940a1270f7b8786,AAPL,sell,limit,canceled,1,day,0.0,1,stock,,,
+2024-01-30 09:30:00-05:00,BTMMStrategy,a2fe8b1490284b74876fb0b3e0d60598,AAPL,sell,market,new,1,day,0.0,1,stock,,,
+2024-01-30 09:30:00-05:00,BTMMStrategy,5dc1be9eb32741c1baea45f5f1363243,AAPL,sell,market,new,1,gtc,0.0,1,stock,,,
+2024-01-30 09:30:00-05:00,BTMMStrategy,a2fe8b1490284b74876fb0b3e0d60598,AAPL,sell,market,fill,1,day,0.0,1,stock,190.94000244140625,267.0,0.0
+2024-01-30 09:30:00-05:00,BTMMStrategy,5dc1be9eb32741c1baea45f5f1363243,AAPL,sell,market,fill,1,gtc,0.0,1,stock,190.94000244140625,131.0,0.0
+2024-02-07 09:30:00-05:00,BTMMStrategy,b7136d472d3d4e11a983d9799c88cf82,AAPL,sell,market,new,1,gtc,0.0,1,stock,,,
+2024-02-07 09:30:00-05:00,BTMMStrategy,b7136d472d3d4e11a983d9799c88cf82,AAPL,sell,market,fill,1,gtc,0.0,1,stock,190.63999938964844,330.0,0.0
+2024-05-15 09:30:00-04:00,BTMMStrategy,33262c41cf8441b2b923563ae1ec2a2b,AAPL,sell,market,new,1,gtc,0.0,1,stock,,,
+2024-05-15 09:30:00-04:00,BTMMStrategy,33262c41cf8441b2b923563ae1ec2a2b,AAPL,sell,market,fill,1,gtc,0.0,1,stock,190.47000122070312,495.0,0.0
+2024-05-20 09:30:00-04:00,BTMMStrategy,129e2c3f8996415a8cbec16eae20e20a,AAPL,sell,market,new,1,gtc,0.0,1,stock,,,
+2024-05-20 09:30:00-04:00,BTMMStrategy,129e2c3f8996415a8cbec16eae20e20a,AAPL,sell,market,fill,1,gtc,0.0,1,stock,191.08999633789062,740.0,0.0
+2024-05-22 09:30:00-04:00,BTMMStrategy,faaa862476c74e1cab35e8c552d0657d,AAPL,sell,market,new,1,gtc,0.0,1,stock,,,
+2024-05-22 09:30:00-04:00,BTMMStrategy,faaa862476c74e1cab35e8c552d0657d,AAPL,sell,market,fill,1,gtc,0.0,1,stock,190.97999572753906,1111.0,0.0
+2024-05-29 09:30:00-04:00,BTMMStrategy,846978ffe26e4ebcb9f9518b6911f675,AAPL,sell,market,new,1,gtc,0.0,1,stock,,,
+2024-05-29 09:30:00-04:00,BTMMStrategy,846978ffe26e4ebcb9f9518b6911f675,AAPL,sell,market,fill,1,gtc,0.0,1,stock,190.75999450683594,1668.0,0.0
+2024-05-30 09:30:00-04:00,BTMMStrategy,3de3f14821344e749af9b2f5a6f08436,AAPL,sell,market,new,1,gtc,0.0,1,stock,,,
+2024-05-30 09:30:00-04:00,BTMMStrategy,3de3f14821344e749af9b2f5a6f08436,AAPL,sell,market,fill,1,gtc,0.0,1,stock,191.44000244140625,2493.0,0.0
+2024-05-31 09:30:00-04:00,BTMMStrategy,473f7ba0db89437481a402abbe36d17f,AAPL,sell,market,new,1,gtc,0.0,1,stock,,,
+2024-05-31 09:30:00-04:00,BTMMStrategy,473f7ba0db89437481a402abbe36d17f,AAPL,sell,market,fill,1,gtc,0.0,1,stock,191.44000244140625,3740.0,0.0

@@ -1,0 +1,18 @@
+time,strategy,identifier,symbol,side,type,status,multiplier,time_in_force,asset.strike,asset.multiplier,asset.asset_type,price,filled_quantity,trade_cost
+2024-01-02 09:30:00-05:00,BTMMStrategy,cf9b2a3b55184b10a0389af2104368ce,USDJPY=X,buy,market,new,1,gtc,0.0,1,stock,,,
+2024-01-02 09:30:00-05:00,BTMMStrategy,cf9b2a3b55184b10a0389af2104368ce,USDJPY=X,buy,market,fill,1,gtc,0.0,1,stock,142.15499877929688,703457.0,0.0
+2024-04-30 09:30:00-04:00,BTMMStrategy,ace70d465f7e4d798861ec7a00f4007a,USDJPY=X,sell,stop,canceled,1,day,0.0,1,stock,,,
+2024-04-30 09:30:00-04:00,BTMMStrategy,2e82b602065546b58d8c5b8bec96d9b4,USDJPY=X,sell,limit,canceled,1,day,0.0,1,stock,,,
+2024-04-30 09:30:00-04:00,BTMMStrategy,3e6f38a21c2c4310a0904b0a5bde65de,USDJPY=X,sell,market,new,1,day,0.0,1,stock,,,
+2024-04-30 09:30:00-04:00,BTMMStrategy,40ba34b499004942ad8ab8f0cf90af9f,USDJPY=X,sell,market,new,1,gtc,0.0,1,stock,,,
+2024-04-30 09:30:00-04:00,BTMMStrategy,3e6f38a21c2c4310a0904b0a5bde65de,USDJPY=X,sell,market,fill,1,day,0.0,1,stock,157.7220001220703,703457.0,0.0
+2024-05-01 09:30:00-04:00,BTMMStrategy,40ba34b499004942ad8ab8f0cf90af9f,USDJPY=X,sell,market,canceled,1,gtc,0.0,1,stock,,,0.0
+2024-05-01 09:30:00-04:00,BTMMStrategy,c857fe3a290d441b894d3b4116da19ab,USDJPY=X,buy,stop,canceled,1,day,0.0,1,stock,,,
+2024-05-01 09:30:00-04:00,BTMMStrategy,04d12179f9ab414588fb8121dafd0d3a,USDJPY=X,buy,limit,canceled,1,day,0.0,1,stock,,,
+2024-05-01 09:30:00-04:00,BTMMStrategy,da0505b0d5c0488dbdc26c189659cdc3,USDJPY=X,buy,market,new,1,gtc,0.0,1,stock,,,
+2024-05-01 09:30:00-04:00,BTMMStrategy,da0505b0d5c0488dbdc26c189659cdc3,USDJPY=X,buy,market,fill,1,gtc,0.0,1,stock,155.70399475097656,70972592.0,0.0
+2024-05-22 09:30:00-04:00,BTMMStrategy,c99bf11812c649cb8a89f2b6636cb4c9,USDJPY=X,sell,stop,canceled,1,day,0.0,1,stock,,,
+2024-05-22 09:30:00-04:00,BTMMStrategy,2efed5b2abf54541a3d5e5224856af19,USDJPY=X,sell,limit,canceled,1,day,0.0,1,stock,,,
+2024-05-22 09:30:00-04:00,BTMMStrategy,c6a91076ed4b449fa47bbca922a93881,USDJPY=X,sell,market,new,1,day,0.0,1,stock,,,
+2024-05-22 09:30:00-04:00,BTMMStrategy,b018be38a2ab4c1ea3a28be75e25b12d,USDJPY=X,sell,market,new,1,gtc,0.0,1,stock,,,
+2024-05-22 09:30:00-04:00,BTMMStrategy,c6a91076ed4b449fa47bbca922a93881,USDJPY=X,sell,market,fill,1,day,0.0,1,stock,156.70399475097656,70972592.0,0.0
