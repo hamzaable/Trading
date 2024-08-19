@@ -1,3 +1,0 @@
-time,strategy,identifier,symbol,side,type,status,multiplier,time_in_force,asset.strike,asset.multiplier,asset.asset_type,price,filled_quantity,trade_cost
-2024-08-01 09:30:00-04:00,BTMMStrategy,ebc6b5410d0447c9ba57a4277195d3b8,USDJPY=X,buy,market,new,1,gtc,0.0,1,stock,,,
-2024-08-01 09:30:00-04:00,BTMMStrategy,ebc6b5410d0447c9ba57a4277195d3b8,USDJPY=X,buy,market,fill,1,gtc,0.0,1,stock,149.2010040283203,670.0,0.0
