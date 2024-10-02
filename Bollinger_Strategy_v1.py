@@ -14,11 +14,17 @@ import pandas as pd
 
 SYMBOL = "SPY"
 QUANTITY = 1000
-START_DATE = "2017-02-16"
-END_DATE = "2022-05-21"
+START_DATE = "2024-08-19"
+END_DATE = "2024-07-19"
 SLEEP_TIME="60M"
+TIMESTEP="60 minutes"
+
+#TIMESTEP="day"
 #SLEEP_TIME="1D"
+
 INIT_SIZE=0.50
+
+
 
 RSI_TOP_LIMIT=50
 RSI_BOTTOM_LIMIT=50
@@ -67,7 +73,7 @@ class Trend(Strategy):
     # minute bars, make functions
 
     def on_trading_iteration(self, elseif=None):
-        bars = self.get_historical_prices(self.symbol, 200)
+        bars = self.get_historical_prices(self.symbol, 200, timestep="15 minutes")
         data = bars.df
         close_data = data["close"]
 
